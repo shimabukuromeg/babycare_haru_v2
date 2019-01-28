@@ -17,10 +17,6 @@ theme = "timer-hugo"
         url     = "/service"
         weight  = 3
     [[menu.nav]]
-        name    = "Gallery"
-        url     = "/gallery"
-        weight  = 4
-    [[menu.nav]]
         name    = "Blog"
         url     = "/blog"
         weight  = 5
@@ -44,17 +40,15 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "母乳育児相談室春"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+        heading = "母乳育児相談室"
+        description = "母乳育児相談室春では、年間300名以上のママさんのケアを行なっています。赤ちゃんが喜ぶスキンシップマッサージ、おっぱいのトラブル、ちょっとした悩みなど子育ての不安を、楽しく幸せな育児にしていくことをコンセプトに支えています。"
         btn     = true
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "DESIGNER"
+            title   = "春"
         [[params.banner.flipText]]
-            title   = "DEVELOPER"
-        [[params.banner.flipText]]
-            title   = "FATHER"
+            title   = "はる"
 
     # Homepage About Section
     [params.about]
@@ -74,7 +68,7 @@ theme = "timer-hugo"
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "Latest Works"
+        title   = "ケア内容"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     # Feature Product Section
