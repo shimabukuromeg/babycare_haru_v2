@@ -9,25 +9,25 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "About"
+        name    = "春について"
         url     = "/about"
         weight  = 2
     [[menu.nav]]
-        name    = "Service"
+        name    = "ケア内容"
         url     = "/service"
         weight  = 3
     [[menu.nav]]
-        name    = "Blog"
+        name    = "ブログ"
         url     = "/blog"
         weight  = 5
     [[menu.nav]]
-        name    = "Contact"
+        name    = "問い合わせ"
         url     = "/contact"
         weight  = 6
 
 # Site Params
 [params]
-    home = "Home"
+    home = "ホーム"
     logo = "images/logo.png"
     dateFormat = "6 January 2006"
     # Meta data
@@ -60,8 +60,8 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        title   = "お問い合わせ"
+        content = "母乳育児相談室春では、楽しく幸せな育児を支えています。お気軽にご連絡ください。"
         btnText = "Contact with me"
         btnURL  = "/contact"
 
@@ -69,7 +69,7 @@ theme = "timer-hugo"
     [params.portfolio]
         enable  = true
         title   = "ケア内容"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+        subtitle= "母乳育児相談、乳幼児育児相談、思春期・妊産婦・更年期相談、タッチケア教室、妊婦産婦操体教室、子育ての不安を、楽しく幸せな育児にをコンセプトに支えています。"
 
     # Feature Product Section
     [params.featureProduct]
