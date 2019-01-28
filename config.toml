@@ -18,7 +18,7 @@ theme = "timer-hugo"
         weight  = 3
     [[menu.nav]]
         name    = "ブログ"
-        url     = "/blog"
+        url     = "https://note.mu/babycareharu"
         weight  = 5
     [[menu.nav]]
         name    = "問い合わせ"
