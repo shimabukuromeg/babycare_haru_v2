@@ -53,8 +53,8 @@ theme = "timer-hugo"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        title   = "助産士紹介"
+        content = "1956年生まれ。1976年に沖縄県立看護学校を卒業後、1977年から３年間、琉球大学院病院に勤める。看護師時代の経験の中で、助産師になりたい気持ちが高まり、助産師の資格を取るため上京し、３年間大学に通う。その後、助産師として30年間、沖縄の現場を支え続け、2001年、独立。現在は、助産師として、年間３００人以上のママさんの相談を受けつつ、保育専門学校の非常勤講師として、育児教育を担当している。"
         image   = "images/about/about.jpg"
 
     # Call to Action
