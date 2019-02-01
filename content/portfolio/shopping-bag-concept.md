@@ -1,9 +1,9 @@
 ---
-title: "教室"
+title: "タッチケア教室"
 type: portfolio
 date: 2018-07-12T16:58:55+06:00
 description : "This is meta description"
-caption: Conceptual Design
+caption: baby care class
 image: images/portfolio/item-5.jpg
 category: ["bag","mockup"]
 liveLink: https://www.themefisher.com
