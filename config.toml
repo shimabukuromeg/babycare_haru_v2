@@ -14,7 +14,7 @@ theme = "timer-hugo"
         weight  = 2
     [[menu.nav]]
         name    = "ケア内容"
-        url     = "#works"
+        url     = "/service"
         weight  = 3
     [[menu.nav]]
         name    = "ブログ"
