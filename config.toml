@@ -21,7 +21,7 @@ theme = "timer-hugo"
         url     = "https://note.mu/babycareharu"
         weight  = 5
     [[menu.nav]]
-        name    = "問い合わせ"
+        name    = "アクセス"
         url     = "/contact"
         weight  = 6
 
@@ -62,7 +62,7 @@ theme = "timer-hugo"
         enable  = true
         title   = "お問い合わせ"
         content = "母乳育児相談室春では、楽しく幸せな育児を支えています。お気軽にご連絡ください。"
-        btnText = "Contact with me"
+        btnText = "問い合わせ"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
