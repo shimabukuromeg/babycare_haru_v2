@@ -9,7 +9,7 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "春"
+        name    = "春について"
         url     = "/about"
         weight  = 2
     [[menu.nav]]
